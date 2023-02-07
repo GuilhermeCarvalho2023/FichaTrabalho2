@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Joao Barbosa
+ * @author Guilherme Carvalho
  */
 public class M17B_fichaTrabalho2_projetoDado {
 
@@ -22,7 +22,7 @@ public class M17B_fichaTrabalho2_projetoDado {
         // Nota: este projeto tem uma outra classe, Janela, que 
         // é executável.
         // O código nesta classe limita-se a mostrar uma mensagem.
-        
+        //
         JOptionPane.showMessageDialog(null,
             "Sou o projeto dado.",
             "Ficha de Trabalho #2",
